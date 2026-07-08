@@ -146,4 +146,4 @@ Sample contracts of varying risk levels are included in `sample_documents/` (low
 ## 👩‍💻 Author
 
 Faiqa — AI/NLP Intern, TEYZIX CORE
-Final-year Computer Science student, GC Women University Faisalabad
+Final-year Computer Science student
