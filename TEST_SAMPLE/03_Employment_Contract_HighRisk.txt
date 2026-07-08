@@ -1,0 +1,47 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement ("Agreement") is entered into as of August 1, 2026, between Halcyon Data Systems Inc. ("Company") and the Employee named in the signature block below ("Employee").
+
+1. POSITION AND DUTIES
+Employee shall serve as Senior Software Engineer, reporting to the CTO. Employee shall devote substantially all of their working time to the Company and may be required to perform duties outside the scope of the job title at Company's sole discretion.
+
+2. COMPENSATION
+Employee shall receive an annual base salary of $95,000, payable in accordance with Company's standard payroll practices. Company reserves the right to modify compensation, bonus eligibility, and benefits at any time without notice.
+
+3. AT-WILL EMPLOYMENT WITH ONE-SIDED NOTICE
+Employee's employment is at-will and may be terminated by Company at any time, with or without cause, and without notice or severance. If Employee wishes to resign, Employee must provide no less than ninety (90) days' written notice. Failure to provide such notice will result in forfeiture of all accrued but unpaid bonuses and forfeiture of any vested equity not yet settled.
+
+4. INTELLECTUAL PROPERTY ASSIGNMENT
+Employee agrees that all inventions, discoveries, designs, works of authorship, and ideas conceived or developed by Employee at any time during their employment, whether or not during working hours, whether or not related to Company's business, and whether or not using Company resources, shall be the sole and exclusive property of Company. This includes any personal side projects, open-source contributions, and pre-existing works not explicitly disclosed and excluded in Schedule A prior to signing.
+
+5. NON-COMPETE
+For a period of twenty-four (24) months following termination of employment for any reason, Employee shall not, directly or indirectly, anywhere in the world, engage in, own, manage, operate, consult for, or be employed by any business that competes with Company, or any business that Company reasonably anticipates entering within the next twelve (12) months.
+
+6. NON-SOLICITATION
+For thirty-six (36) months following termination, Employee shall not solicit or hire any Company employee, contractor, customer, or prospective customer with whom Employee had contact during the last three (3) years of employment.
+
+7. LIQUIDATED DAMAGES
+In the event Employee breaches Sections 5 or 6, Employee agrees to pay Company liquidated damages of $250,000 per violation, which the parties agree is a reasonable estimate of damages and not a penalty.
+
+8. ARBITRATION AND CLASS ACTION WAIVER
+Any dispute, including disputes regarding wages, discrimination, or termination, shall be resolved solely through confidential binding arbitration administered by an arbitrator selected by Company. Employee waives the right to participate in any class, collective, or representative action against Company.
+
+9. CONFIDENTIALITY
+Employee's confidentiality obligations survive termination indefinitely and extend to any information Employee reasonably should have known was confidential, even if not marked as such.
+
+10. UNILATERAL MODIFICATION
+Company reserves the right to amend this Agreement, including compensation and restrictive covenant terms, at any time by providing written notice. Continued employment after such notice constitutes acceptance of the amended terms.
+
+11. GOVERNING LAW AND VENUE
+This Agreement is governed by the laws of the state in which Company's headquarters are located, and Employee consents to exclusive jurisdiction and venue in that state, regardless of Employee's state of residence or employment.
+
+12. SEVERABILITY
+If any provision is found unenforceable, a court may modify (rather than strike) the provision to make it enforceable to the maximum extent permitted by law.
+
+EMPLOYEE ACKNOWLEDGMENT
+By signing below, Employee acknowledges having read and understood this Agreement, including the restrictive covenants in Sections 5-7, and confirms they had the opportunity to consult independent legal counsel.
+
+Halcyon Data Systems Inc.                        Employee
+By: _______________________                     Signature: _______________________
+Name: HR Director                                 Name: _______________________
+Date: _______________                            Date: _______________

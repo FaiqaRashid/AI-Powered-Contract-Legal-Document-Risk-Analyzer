@@ -1,0 +1,49 @@
+INDEPENDENT CONTRACTOR SERVICES AGREEMENT
+
+This Independent Contractor Services Agreement ("Agreement") is made effective as of June 15, 2026, between:
+
+Client: Vantage Retail Solutions LLC ("Client")
+Contractor: Zenith Web Studio ("Contractor")
+
+1. SERVICES
+Contractor shall design, develop, and deliver a responsive e-commerce website for Client, including front-end UI, payment gateway integration, and a content management system, as further described in Exhibit A (the "Services").
+
+2. PAYMENT TERMS
+Client shall pay Contractor a total fee of $4,500 USD, payable as follows: 20% upon signing, 40% upon delivery of a working prototype, and the remaining 40% upon final delivery. Payment shall be made within 45 days of invoice. Late payments shall not accrue interest, and Client reserves the right to withhold final payment pending its sole discretion as to whether deliverables are "satisfactory."
+
+3. INTELLECTUAL PROPERTY
+All work product, code, designs, and deliverables created under this Agreement, including any pre-existing tools, libraries, or frameworks developed by Contractor prior to this engagement that are incorporated into the deliverables, shall be deemed a "work made for hire" and shall become the sole and exclusive property of Client upon payment. Contractor hereby assigns all right, title, and interest, including any moral rights, worldwide and in perpetuity, to Client.
+
+4. TERMINATION
+Client may terminate this Agreement at any time, for any reason or no reason, with three (3) days' written notice. Upon termination by Client, Contractor shall be paid only for completed milestones as determined by Client. Contractor may terminate only for Client's material breach, provided Contractor gives sixty (60) days' notice and an opportunity to cure.
+
+5. NON-COMPETE
+During the term of this Agreement and for eighteen (18) months thereafter, Contractor shall not provide similar web development services to any business operating in the retail or e-commerce sector within North America or Europe.
+
+6. CONFIDENTIALITY
+Contractor agrees to keep all Client information confidential indefinitely, with no expiration of this obligation.
+
+7. INDEMNIFICATION
+Contractor shall indemnify, defend, and hold harmless Client, its officers, directors, and employees from and against any and all claims, damages, losses, and expenses (including attorneys' fees) arising out of or related to the Services, regardless of whether such claims arise from Contractor's negligence, Client's negligence, or any third party's actions.
+
+8. LIMITATION OF LIABILITY
+Client's total liability under this Agreement shall not exceed $100. Contractor's liability shall be uncapped.
+
+9. WARRANTY
+Contractor warrants that the deliverables will be free of defects for a period of twelve (12) months and will provide unlimited free bug fixes and revisions during that period at no additional cost.
+
+10. DISPUTE RESOLUTION
+Any dispute arising under this Agreement shall be resolved exclusively through binding arbitration in Client's home jurisdiction, with Client selecting the arbitrator. Contractor waives any right to a jury trial or class action participation.
+
+11. GOVERNING LAW
+This Agreement shall be governed by the laws of the jurisdiction in which Client is headquartered.
+
+12. ENTIRE AGREEMENT
+This Agreement, including Exhibit A, constitutes the entire agreement between the parties.
+
+AGREED AND ACCEPTED:
+
+Vantage Retail Solutions LLC                     Zenith Web Studio
+By: _______________________                     By: _______________________
+Name: Marcus Reyes, COO                          Name: Contractor Representative
+Date: _______________                            Date: _______________
