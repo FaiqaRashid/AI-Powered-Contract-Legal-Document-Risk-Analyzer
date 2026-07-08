@@ -45,7 +45,7 @@ An AI-powered web application that automatically analyzes legal documents (contr
 ```
 ├── app.py                 # Main Streamlit application
 ├── supabase_schema.sql    # SQL to create the required Supabase tables
-├── .env                   # API keys / credentials (not committed)
+├── .env.example           # API keys 
 ├── requirements.txt       # Python dependencies
 ├── sample_documents/      # Sample contracts for testing (txt, pdf, docx)
 └── README.md
